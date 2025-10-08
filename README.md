@@ -1,4 +1,4 @@
-# (My Notes from Ahbishek Veeramalla) aws-devops-zero-to-hero
+# (My Notes from AV) aws-devops-zero-to-hero
 
 Complete YouTube playlist - https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze
 
